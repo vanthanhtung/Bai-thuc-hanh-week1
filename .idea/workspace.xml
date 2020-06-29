@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5cee44f-cb4e-4a79-bdd1-04626723bed5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tao bang don gian/bangdongian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tao bang don gian/table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tao bang nang cao/bang nang cao.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -59,7 +58,9 @@
       <workItem from="1593270404385" duration="33000" />
       <workItem from="1593271108578" duration="100000" />
       <workItem from="1593273573933" duration="2294000" />
-      <workItem from="1593336205968" duration="1774000" />
+      <workItem from="1593336205968" duration="2703000" />
+      <workItem from="1593394172528" duration="59000" />
+      <workItem from="1593394515990" duration="347000" />
     </task>
     <servers />
   </component>
@@ -67,6 +68,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593339254250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593339254250" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1593271207466">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
